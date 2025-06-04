@@ -166,9 +166,6 @@ h1.info-box-weather-icon {
 
 table {
   width: 100%;
-  border-collapse: collapse;
-  border: 1px solid #131313;
-  background-color: #131313;
 }
 
 td {
@@ -206,7 +203,7 @@ textarea {
 /*============== TABLE ==============*/
 
 table {
-  border: 1px solid #131313;
+  border: 1px;
   background-color: #131313;
 }
 
